@@ -2,7 +2,7 @@ import random
 
 britDic = {}
 amerDic = {}
-spellingUKUS = [["tre", "ter"], ["ogue", "og"], ["our", "or"], ["ise", "ize"], ["lled", "led"]]
+spellingUKUS = [["tre", "ter"], ["ogue", "og"], ["our", "or"], ["ise", "ize"], ["isa", "iza"], ["yse","yze"], ["xion", "ction"], ["ce", "se"], ["lled", "led"]]
 inSelect = 0
 
 def addToDic(srcLang, desLang, inSrc, inDes):
